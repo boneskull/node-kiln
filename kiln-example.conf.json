@@ -1,0 +1,8 @@
+{
+  "site": "mysite",
+  "onDemand": true,
+  "useSSL": true,
+  "username": "foo@bar.com",
+  "password": "Password1",
+  "feedURL": "https://mysite.kilnhg.com/Feed/12345/aiksdflkaiwuerlikwe"
+}
